@@ -1,0 +1,5 @@
+*.log
+Backups/
+*.DS_Store
+*._
+*.localized

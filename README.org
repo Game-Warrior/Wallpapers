@@ -1,0 +1,10 @@
+#+title: README
+#+description: A collection of wallpapers I have found
+#+author: Gardner Berry
+#+options: num:nil toc:nil
+
+* Wallpapers
+Here is a collection of various Wallpapers that I have taken myself or gotten from Discord or Reddit.
+
+** Ownership
+If you are the copyright holder of any of these Images please let me know so I can remove them.
