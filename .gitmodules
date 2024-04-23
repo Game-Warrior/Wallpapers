@@ -1,0 +1,3 @@
+[submodule "dt-wallpapers"]
+	path = wallpapers
+	url = https://gitlab.com/dwt1/wallpapers
